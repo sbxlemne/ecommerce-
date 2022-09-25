@@ -215,7 +215,7 @@ h4 {
 }
 /*   */
 .offer {
-    background: radial-gradient(rgb(252, 241, 241), #4232ca);
+    background: linear-gradient(rgb(252, 241, 241), #125f02);
     margin-top: 80px;
     padding: 30px 0;
 }
